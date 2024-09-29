@@ -1,4 +1,4 @@
-# Magnolia
+# Magnolia 🏠🏕️🛫
 
 Magnolia is an intelligent travel planning application that leverages AI to recommend personalized trips for users. Built with modern web technologies like React, Gemini AI, Firebase, and TailwindCSS, this app helps users discover destinations, manage bookings, and organize itineraries seamlessly.
 
